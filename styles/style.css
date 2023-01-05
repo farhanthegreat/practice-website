@@ -1,0 +1,43 @@
+* {
+    font-family: sans-serif;
+}
+.header {
+    background: url('../../donate-today/images/donation5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    margin-bottom: 100px;
+    background-color: lightslategrey;
+    background-blend-mode:multiply;
+}
+.head-text {
+    padding-bottom: 300px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.list {
+    text-align: center;
+    margin-top: 50px;
+}
+.list ul li {
+    display: inline;
+    padding: 30px 10px;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 30px;
+    border-radius: 5px;
+    border: 2px;
+    color: grey;
+    background-color: rgb(240, 236, 236)
+}
+#list-two {
+    color: rgb(255, 95, 95);
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(255, 95, 95);
+    background-color: rgb(255, 234, 234);;
+
+}
